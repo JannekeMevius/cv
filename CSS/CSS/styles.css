@@ -1,5 +1,5 @@
 body {
-  background-color: linen;
+  background-color: ;#FFEBEE
   ">
 
 }
@@ -11,4 +11,13 @@ hr {
   border-color: Grey;
   border-width: 5px;
   width: 5%;
+}
+
+h1{
+  color:#E57373
+
+}
+
+h3{
+  color:#EF9A9A
 }
